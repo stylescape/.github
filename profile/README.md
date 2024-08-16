@@ -7,7 +7,7 @@ _repository:_ **[stylescape](https://github.com/stylescape/stylescape)**
 
 ---
 
-### Graphic Language Systems
+### Graphic Languages
 
 Stylescape is built on the following modules:
 
@@ -26,6 +26,17 @@ Stylescape is built on the following modules:
 - **[Community](https://github.com/stylescape/community)**
 - **[devContainer](https://github.com/stylescape/stylescape-devcontainer)**
 - **[Theme Template](https://github.com/stylescape/stylescape-theme)**
+
+---
+
+### Examples
+
+- **[npm](https://github.com/stylescape/example-npm)** - Stylescape Sass and JS with npm
+- **[Parcel](https://github.com/stylescape/example-parcel)** - Stylescape Sass and JS with Parcel
+- **[React](https://github.com/stylescape/example-react)** - Stylescape Sass and JS with React and Next.js
+- **[Vite](https://github.com/stylescape/example-vite)** - Stylescape Sass and JS with Vite
+- **[Vue](https://github.com/stylescape/example-vue)** - Stylescape Sass and JS with Vue + Vite
+- **[Webpack](https://github.com/stylescape/example-webpack)** - Bundle Stylescape Sass and JS with Webpack
 
 ---
 
