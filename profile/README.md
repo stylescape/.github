@@ -1,4 +1,9 @@
-# Stylescape
+<p align="center">
+    <img src="https://raw.githubusercontent.com/stylescape/brand/master/src/logo/logo-transparant.png" width="20%" height="20%" alt="Stylescape Logo">
+</p>
+<h1 align="center" style='border-bottom: none;'>Stylescape</h1>
+
+---
 
 Stylescape is a framework dedicated to streamlining style and layout design for both web and print media. Whether you’re a designer or developer, Stylescape provides a robust toolkit that empowers you to create harmonious, scalable, and accessible designs efficiently.
 
